@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class UserInputExample {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new data Scanner(System.in);
 
         System.out.print("Enter Students Full Name & Roll Number: ");
         String name = scanner.nextLine();
